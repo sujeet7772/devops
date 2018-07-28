@@ -9,3 +9,7 @@
 git config global.user.name sujeet7772
 
 git config global.user.email sujeetdhumal77@gmailcom
+
+git push origin master
+
+git checkout -b devil
