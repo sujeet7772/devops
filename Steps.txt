@@ -1,0 +1,11 @@
+1.sign up with Email id PWD 
+2.verify the email id
+3.create repo copy the link
+4.git bsh
+5git clone paste the url
+6 cd repo name
+7
+
+git config global.user.name sujeet7772
+
+git config global.user.email sujeetdhumal77@gmailcom
